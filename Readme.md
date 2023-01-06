@@ -1,4 +1,4 @@
-# Galaxy
+# <img src="https://images-ext-1.discordapp.net/external/nX2CILYRiheCmaQKXcuOuYRZVIW6qmzsYDiCXijo7fE/%3Fsize%3D1024/https/cdn.discordapp.com/icons/807397808529342514/43507477a254766635724adebb601e33.webp" data-canonical-src="https://images-ext-1.discordapp.net/external/nX2CILYRiheCmaQKXcuOuYRZVIW6qmzsYDiCXijo7fE/%3Fsize%3D1024/https/cdn.discordapp.com/icons/807397808529342514/43507477a254766635724adebb601e33.webp" width="32" height="32" /> Galaxy <img src="https://images-ext-1.discordapp.net/external/nX2CILYRiheCmaQKXcuOuYRZVIW6qmzsYDiCXijo7fE/%3Fsize%3D1024/https/cdn.discordapp.com/icons/807397808529342514/43507477a254766635724adebb601e33.webp" data-canonical-src="https://images-ext-1.discordapp.net/external/nX2CILYRiheCmaQKXcuOuYRZVIW6qmzsYDiCXijo7fE/%3Fsize%3D1024/https/cdn.discordapp.com/icons/807397808529342514/43507477a254766635724adebb601e33.webp" width="32" height="32" />
 Galaxy is a brand new optimization modpack!
 
 # Q&A
