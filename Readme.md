@@ -4,7 +4,7 @@ Galaxy is a brand new optimization modpack!
 # Q&A
 Q: Is it open source?
 
-A: Yeah, why would it be for github if it wasn't? But, you need to credit Galaxy.
+A: Yeah, why would it be on github if it wasn't? But, you need to credit Galaxy.
 
 Q: Can I sell my own version?
 
