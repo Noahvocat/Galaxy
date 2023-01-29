@@ -2,6 +2,7 @@
 Galaxy is a brand new modpack!
 
 Features:
+
 -Optimisation
 
 -Essential (friend list) mod
