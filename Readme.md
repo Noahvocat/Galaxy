@@ -4,6 +4,7 @@ Galaxy is a brand new modpack!
 # Help about versions
 
 Cl = Classic
+
 Sl = StarLight
 
 # Features:
